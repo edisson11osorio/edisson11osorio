@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edisson Osorio</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edisson11osorio" alt="edisson11osorio" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://edisson11osorio.github.io/portafolio.github.io/](https://edisson11osorio.github.io/portafolio.github.io/)
 
